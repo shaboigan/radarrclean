@@ -1,0 +1,26 @@
+[General]
+# Time to wait between adding new movies to a server. This will help reduce the load of the Sync server. 0 to disable. (seconds)
+wait_between_add = 5
+
+# Full path to log file
+log_path = ./Output.txt
+
+# DEBUG, INFO, VERBOSE | Logging level.
+log_level = DEBUG
+
+[RadarrMaster]
+url = http://127.0.0.1:7878
+key = XXXXXXXXXXXXXXXXXX
+
+
+[SyncServers]
+# Ensure the servers start with 'Radarr_'
+[Radarr_PQ]
+url = http://127.0.0.1:7879
+key = XXXXXXXXXXXXXXXXXX
+
+rootFolders = /
+# If this path exists
+local_path = /local/
+# Replace with this path
+cloud_path = /.cloud-crypt/

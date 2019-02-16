@@ -1,0 +1,474 @@
+[
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "alternativeTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieId": 2,
+        "title": "LOTR",
+        "sourceId": 120,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 21
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 2,
+        "title": "Lord of The Rings I - The Fellowship of The Ring",
+        "sourceId": 120,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 18
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 2,
+        "title": "TLOTR The Fellowship of the Ring",
+        "sourceId": 120,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 20
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 2,
+        "title": "The  Lord of the Rings: The Fellowship of the Ring (Theatrical Edition)",
+        "sourceId": 120,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 22
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 2,
+        "title": "The Lord of the Rings 1 - The Fellowship of the Ring",
+        "sourceId": 120,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 19
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "lord rings fellowship ring",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+    "inCinemas": "2001-12-17T23:00:00Z",
+    "physicalRelease": "2002-08-06T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/2/poster.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/2/fanart.jpg"
+      }
+    ],
+    "website": "http://www.lordoftherings.net/",
+    "downloaded": false,
+    "year": 2001,
+    "hasFile": false,
+    "youTubeTrailerId": "V75dMMIW2B4",
+    "studio": "New Line Cinema",
+    "path": "/mnt/local/Media/Movies/YIFY/The Lord of the Rings The Fellowship of the Ring (2001)",
+    "profileId": 1,
+    "pathState": "static",
+    "monitored": true,
+    "minimumAvailability": "announced",
+    "isAvailable": true,
+    "folderName": "/mnt/local/Media/Movies/YIFY/The Lord of the Rings The Fellowship of the Ring (2001)",
+    "runtime": 178,
+    "lastInfoSync": "2019-02-07T01:57:04.344633Z",
+    "cleanTitle": "thelordringsfellowshipring",
+    "imdbId": "tt0120737",
+    "tmdbId": 120,
+    "titleSlug": "the-lord-of-the-rings-the-fellowship-of-the-ring-120",
+    "genres": [],
+    "tags": [],
+    "added": "2019-02-07T01:57:03.937635Z",
+    "ratings": {
+      "votes": 13476,
+      "value": 8.3
+    },
+    "qualityProfileId": 1,
+    "id": 2
+  },
+  {
+    "title": "The Lord of the Rings: The Return of the King",
+    "alternativeTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "El Señor de los Anillos 3",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 38
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "LOTR 3",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 28
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of The Rings III - The Return of The King",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 24
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of the Rings 3 - The Return of the King - Extended Edition",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 31
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of the Rings 3 - The Return of the King - Extended Edition Part 1",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 34
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of the Rings 3 - The Return of the King - Extended Edition Part 2",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 35
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of the Rings III - The Return of the King - Extended Edition",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 32
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "Lord of the Rings, the 03 Lord of the Rings the Return of the King, The",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 39
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "TLOTR The Return of the King",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 27
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings - The Return of the King (Special Extended Edition)",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 33
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings 3 - The Return of the King",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 25
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings 3 - The Return of the King - Extended Edition",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 29
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings III - The Return of the King",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 26
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings III - The Return of the King - Extended Edition",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 30
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings The Return of the King disc-1",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 36
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Lord of the Rings The Return of the King disc-2",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 37
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 3,
+        "title": "The Return of the King",
+        "sourceId": 122,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 23
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "lord rings return king",
+    "sizeOnDisk": 3975031978,
+    "status": "released",
+    "overview": "Aragorn is revealed as the heir to the ancient kings as he, Gandalf and the other members of the broken fellowship struggle to save Gondor from Sauron's forces. Meanwhile, Frodo and Sam bring the ring closer to the heart of Mordor, the dark lord's realm.",
+    "inCinemas": "2003-11-30T23:00:00Z",
+    "physicalRelease": "2004-05-25T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/3/poster.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/3/fanart.jpg"
+      }
+    ],
+    "website": "http://www.lordoftherings.net",
+    "downloaded": true,
+    "year": 2003,
+    "hasFile": true,
+    "youTubeTrailerId": "r5X-hFf6Bwo",
+    "studio": "New Line Cinema",
+    "path": "/mnt/local/Media/Movies/YIFY/The Lord of the Rings The Return of the King (2003)",
+    "profileId": 1,
+    "pathState": "static",
+    "monitored": true,
+    "minimumAvailability": "announced",
+    "isAvailable": true,
+    "folderName": "/mnt/local/Media/Movies/YIFY/The Lord of the Rings The Return of the King (2003)",
+    "runtime": 201,
+    "lastInfoSync": "2019-02-07T01:57:07.590555Z",
+    "cleanTitle": "thelordringsreturnking",
+    "imdbId": "tt0167260",
+    "tmdbId": 122,
+    "titleSlug": "the-lord-of-the-rings-the-return-of-the-king-122",
+    "genres": [],
+    "tags": [],
+    "added": "2019-02-07T01:57:07.036983Z",
+    "ratings": {
+      "votes": 12274,
+      "value": 8.4
+    },
+    "movieFile": {
+      "movieId": 0,
+      "relativePath": "The.Lord.of.the.Rings.The.Return.of.the.King.EXTENDED.2003.1080p.BrRip.x264.YIFY.mp4",
+      "size": 3975031978,
+      "dateAdded": "2019-02-07T01:58:36.348209Z",
+      "quality": {
+        "quality": {
+          "id": 7,
+          "name": "Bluray-1080p",
+          "source": "bluray",
+          "resolution": "r1080P",
+          "modifier": "none"
+        },
+        "customFormats": [],
+        "revision": {
+          "version": 1,
+          "real": 0
+        }
+      },
+      "edition": "EXTENDED",
+      "mediaInfo": {
+        "containerFormat": "MPEG-4",
+        "videoFormat": "AVC",
+        "videoCodecID": "avc1",
+        "videoProfile": "High@L4",
+        "videoCodecLibrary": "x264 - core 120 r2164 da19765",
+        "videoBitrate": 1917000,
+        "videoBitDepth": 8,
+        "videoMultiViewCount": 0,
+        "videoColourPrimaries": "",
+        "videoTransferCharacteristics": "",
+        "width": 1920,
+        "height": 800,
+        "audioFormat": "AAC",
+        "audioCodecID": "mp4a-40-2",
+        "audioCodecLibrary": "",
+        "audioAdditionalFeatures": "LC",
+        "audioBitrate": 91992,
+        "runTime": "04:23:16.7800000",
+        "audioStreamCount": 1,
+        "audioChannels": 2,
+        "audioChannelPositions": "2/0/0",
+        "audioChannelPositionsText": "Front: L R",
+        "audioProfile": "",
+        "videoFps": 23.976,
+        "audioLanguages": "",
+        "subtitles": "",
+        "scanType": "Progressive",
+        "schemaRevision": 5
+      },
+      "id": 8
+    },
+    "qualityProfileId": 1,
+    "id": 3
+  },
+  {
+    "title": "The Hobbit: An Unexpected Journey",
+    "alternativeTitles": [
+      {
+        "sourceType": "tmdb",
+        "movieId": 4,
+        "title": "Hobbit - An Unexpected Journey",
+        "sourceId": 49051,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 41
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 4,
+        "title": "Hobbit, the 01 Hobbit An Unexpected Journey, the",
+        "sourceId": 49051,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 44
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 4,
+        "title": "The Hobbit - An Unexpected Journey - 3D",
+        "sourceId": 49051,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 40
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 4,
+        "title": "The Hobbit 1 - An Unexpected Journey",
+        "sourceId": 49051,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 43
+      },
+      {
+        "sourceType": "tmdb",
+        "movieId": 4,
+        "title": "The Hobbit I: An Unexpected Journey",
+        "sourceId": 49051,
+        "votes": 0,
+        "voteCount": 0,
+        "language": "english",
+        "id": 42
+      }
+    ],
+    "secondaryYearSourceId": 0,
+    "sortTitle": "hobbit unexpected journey",
+    "sizeOnDisk": 0,
+    "status": "released",
+    "overview": "Bilbo Baggins, a hobbit enjoying his quiet life, is swept into an epic quest by Gandalf the Grey and thirteen dwarves who seek to reclaim their mountain home from Smaug, the dragon.",
+    "inCinemas": "2012-11-25T23:00:00Z",
+    "physicalRelease": "2013-04-08T00:00:00Z",
+    "images": [
+      {
+        "coverType": "poster",
+        "url": "/MediaCover/4/poster.jpg"
+      },
+      {
+        "coverType": "fanart",
+        "url": "/MediaCover/4/fanart.jpg"
+      }
+    ],
+    "website": "http://www.thehobbit.com/",
+    "downloaded": false,
+    "year": 2012,
+    "hasFile": false,
+    "youTubeTrailerId": "9PSXjr1gbjc",
+    "studio": "Warner Bros. Pictures",
+    "path": "/mnt/local/Media/Movies/YIFY/The Hobbit An Unexpected Journey (2012)",
+    "profileId": 1,
+    "pathState": "static",
+    "monitored": true,
+    "minimumAvailability": "announced",
+    "isAvailable": true,
+    "folderName": "/mnt/local/Media/Movies/YIFY/The Hobbit An Unexpected Journey (2012)",
+    "runtime": 169,
+    "lastInfoSync": "2019-02-12T02:56:36.84536Z",
+    "cleanTitle": "thehobbitunexpectedjourney",
+    "imdbId": "tt0903624",
+    "tmdbId": 49051,
+    "titleSlug": "the-hobbit-an-unexpected-journey-49051",
+    "genres": [],
+    "tags": [],
+    "added": "2019-02-12T02:56:36.140542Z",
+    "ratings": {
+      "votes": 11479,
+      "value": 7.2
+    },
+    "qualityProfileId": 1,
+    "id": 4
+  }
+]
